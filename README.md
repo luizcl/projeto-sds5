@@ -10,7 +10,7 @@ DS Vendas é uma aplicação web construída durante a 5ª edição da **Semana 
 A aplicação consiste em uma consulta de vendas realizada por vendedores de uma empresa fictícia, exibindo os dados de diversas formas, com o intuito de apresentar desafios reais de um desenvolvedor.
 
 ## Layout
-![Web](https://github.com/luizcl/assets/blob/main/frontend.PNG) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Web](https://github.com/luizcl/assets/blob/main/frontend.PNG)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/luizcl/assets/blob/main/conceptual-model-sds5.png)
