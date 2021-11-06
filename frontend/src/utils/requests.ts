@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://localhost:8080'//'https://sds5-luiz.herokuapp.com/'
