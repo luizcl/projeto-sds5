@@ -52,7 +52,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/luizcl/projeto-sds5
+git clone git@github.com:luizcl/projeto-sds5.git
 
 # entrar na pasta do projeto front-end
 cd frontend
